@@ -1,0 +1,12 @@
+{
+  "name": "toolsqa",
+  "version": "1.0.0",
+  "description": "Complete Framework",
+  "main": "index.js",
+  "scripts": {},
+  "author": "FJLRivera86",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.23.2"
+  }
+}
